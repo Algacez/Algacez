@@ -12,4 +12,3 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=yousaforever&theme=github)
 
-![](https://stats.justsong.cn/api/bilibili/?id=629838144&theme=dark)
