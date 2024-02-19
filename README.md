@@ -1,7 +1,5 @@
 # Hi 🎉 Welcome to my Github Homepage!
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yousaforever&theme=dark&layout=compact)
-
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
 <img src="https://img.shields.io/static/v1?label=Program&message=Lua&color=blue"/>
