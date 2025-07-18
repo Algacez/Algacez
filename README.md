@@ -2,7 +2,7 @@
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
-<a href="https://blog.282994.xyz"><img src="https://img.shields.io/static/v1?label=Blog&message=Link&color=red"/></a>
+<img src="https://img.shields.io/static/v1?label=Program&message=C++&color=blue"/>
 </p>
 
 ![my github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Algacez&custom_title=My%20Github%20Activity%20Graph&hide_border=true&theme=react-dark)
